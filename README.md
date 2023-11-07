@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer from India</h3>
 <br>
 <div align="center">
-  <img align="right" alt="Coding" width="400" height="400" src="https://github.com/jayantghadge/jayantghadge/assets/88991259/8bf2272a-51a8-4a46-9a28-f8fcac2b7473" style="border-radius: 50%;">
+  <img align="right" alt="Coding" width="350" height="350" src="https://github.com/jayantghadge/jayantghadge/assets/88991259/8bf2272a-51a8-4a46-9a28-f8fcac2b7473" style="border-radius: 50%;">
 </div>
 
 # ✨ Life Equation
