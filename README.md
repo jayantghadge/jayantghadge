@@ -65,7 +65,7 @@ createBeautifulWebsite();
 [![trophy](https://github-profile-trophy.vercel.app/?username=jayantghadge&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🏆 Achievements
-[![@Jayant's Holopin board](https://holopin.io/api/user/board?user=jayantghadge)](https://holopin.io/@jayantghadge)
+[![An image of @jayantghadge's Holopin badges](https://holopin.me/jayantghadge)](https://holopin.io/@jayantghadge)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayant.ghadge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-ghadge-700739181) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jayantghadge) 
