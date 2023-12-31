@@ -62,7 +62,8 @@ createBeautifulWebsite();
 ![](https://github-readme-stats.vercel.app/api?username=jayantghadge&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayantghadge&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantghadge&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayantghadge&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayantghadge&theme=radical&title_case=snake&no-frame=true&margin-w=5&no-bg=true&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # 🏆 Achievements
 [![An image of @jayantghadge's Holopin badges](https://holopin.me/jayantghadge)](https://holopin.io/@jayantghadge)
